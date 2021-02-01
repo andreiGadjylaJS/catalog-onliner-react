@@ -1,0 +1,15 @@
+.wrapper--type-dictionaries {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .filter__heading {
+    padding-left: 10px;
+    font-size: 14px;
+    color: #333333;
+    margin: 10px 0 5px 0;
+  }
+  .filter__checkbox {
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }

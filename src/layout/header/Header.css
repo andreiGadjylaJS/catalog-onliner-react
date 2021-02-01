@@ -1,0 +1,8 @@
+header {
+  width: 100%;
+  background: #e8e8e8;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #dddddd;
+}

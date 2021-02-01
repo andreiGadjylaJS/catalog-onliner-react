@@ -1,0 +1,10 @@
+.review {
+  margin-left: 10px;
+  font-size: 14px;
+  color: #a699b3;
+  border-bottom: 1px solid white;
+}
+.review:hover {
+  color: #735d77;
+  border-bottom: 1px solid #735d77;
+}

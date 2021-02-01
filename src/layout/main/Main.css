@@ -1,0 +1,22 @@
+main {
+    display: flex;
+    border: 1px solid #dddddd;
+  }
+  
+  .sectionProducts {
+    width: 100%;
+  }
+  
+  .filter {
+    display: flex;
+    flex-direction: column;
+    width: 21%;
+    border-right: 1px solid #dddddd;
+  }
+  /* .filter__block_wrapper {
+    display: flex;
+    flex-direction: column;
+  } */
+  .checkbox-boolean {
+    padding: 10px 0 10px 0;
+  }

@@ -1,0 +1,18 @@
+.header--icon {
+  padding-top: 6px;
+}
+
+.header--icon ul {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 25px;
+}
+.fa-user-circle {
+  font-size: 40px;
+}
+.fa {
+  margin-right: 15px;
+  cursor: pointer;
+}
